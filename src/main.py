@@ -7,4 +7,4 @@ def hello():
     return "<html><head><title>My Web Server</title></head><body><p>This is an example web server.</p></body></html>"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080)
+    app.run(host="0.0.0.0", port=10000)

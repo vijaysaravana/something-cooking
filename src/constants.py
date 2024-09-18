@@ -1,0 +1,1 @@
+BASE_PATH = "https://financialmodelingprep.com/api/"
